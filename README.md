@@ -1,4 +1,4 @@
-# ElderlyCareProtocol
+# ElderlyCare Protocol
 
 ## Project Description
 
@@ -24,6 +24,11 @@ Our vision is to create a world where elderly care is transparent, accessible, a
 - **Care coordination transcends geographical boundaries** through decentralized infrastructure
 
 The ElderlyCare Protocol aims to become the foundational layer for a new era of elderly care that prioritizes dignity, quality, and family involvement while leveraging the power of blockchain technology to ensure transparency and accountability.
+
+## Contract Address Details
+![alt text](image.jpg)
+
+Contract ID : 
 
 ## Future Scope
 
@@ -58,17 +63,3 @@ The ElderlyCare Protocol is designed with scalability and extensibility in mind.
 - **AI Care Assistants**: Integrate AI-powered care planning and monitoring
 - **Preventive Care Focus**: Shift from reactive to proactive and preventive care models
 - **Community Care Tokens**: Tokenized incentives for community involvement in elderly care
-
-## Contract Address Details
-
-Contract ID : 
-
-
-```
-
-```
-
-```
-
----
-
